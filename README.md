@@ -32,6 +32,8 @@ INSTALL / INSTALLATION
 
 - Mettez dans votre server.cfg: ensure paquetdeclopes
 
+- Si vous utilisez un "stress system" vous pouvez décommenter la ligne 35,75,115,155 dans le server.lua: TriggerClientEvent('esx_status:remove', source, 'stress', 250000) - Pensez à modifier la valeur !
+
 - Donne toi un lighter / paquetmalboro / paquetcamel / paquetwinston / paquetlucky
 
 - Utiliser l'item paquet avec votre inventaire et appréciez votre cigarette ;)
@@ -49,6 +51,8 @@ INSTALL / INSTALLATION
 - In server.cfg add: ensure paquetdeclopes
 
 - Uncomment in server.lua the text in english and comment the french langage
+
+- If you use a "stress system" you can uncomment the line 35,75,115,155 in the server.lua: TriggerClientEvent('esx_status:remove', source, 'stress', 250000) - Remember to change the value !
 
 - Give you a lighter / paquetmalboro / paquetcamel / paquetwinston / paquetlucky
 
