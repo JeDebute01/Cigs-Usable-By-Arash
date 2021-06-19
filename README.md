@@ -1,14 +1,14 @@
 
  # Paquet de clopes par Arash_68 / Packets of cigarets By Arash_68
+ 
 FR: Cigarettes utilisables de plusieurs marques. Possibilité d'utiliser les paquets qui vous donneront 20 cigarettes de la même marque. Les cigarettes sont utilisables avec animations et fumées.
+
 EN : Usable cigarettes of several brands. Possibility to use the packages that will give you 20 cigarettes of the same brand. Cigarettes are usable with animation and smoked.
 
-
+#
 
 https://discord.com/invite/tH2F4hC My discord / Mon discord
-
-
-
+#
 
 FR : Merci à Polo/SP (esx_joint) et ESX Community (Drug effects) pour les différents bouts de codes ;)
 Je suis débutant en code donc il est surement pas du tout optimisé et surement une possibilité de l'optimiser !
@@ -17,6 +17,8 @@ Dans le futur: Mettre une condition pour ne pas l'utiliser dans un véhicule / M
 EN: Thank's to Polo/SP (esx_joint) and ESX Community (Drug effects) for the different code snippets ;)
 I am a beginner in code so it is surely not optimized at all and surely a possibility to optimize it!
 In the future: Put a condition not to use it in a vehicle / Put locales and config for that's
+
+#
 
 ######################
 INSTALL / INSTALLATION
