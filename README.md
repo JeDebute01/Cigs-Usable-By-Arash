@@ -1,5 +1,8 @@
 
  # Paquet de clopes par Arash_68 / Packets of cigarets By Arash_68
+FR: Cigarettes utilisables de plusieurs marques. Possibilité d'utiliser les paquets qui vous donneront 20 cigarettes de la même marque. Les cigarettes sont utilisables avec animations et fumées.
+ 
+ EN : Usable cigarettes of several brands. Possibility to use the packages that will give you 20 cigarettes of the same brand. Cigarettes are usable with animation and smoked.
 
 https://discord.com/invite/tH2F4hC My discord / Mon discord
 
