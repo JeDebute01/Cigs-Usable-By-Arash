@@ -48,6 +48,8 @@ INSTALL / INSTALLATION
 
 - In server.cfg add: ensure paquetdeclopes
 
+- Uncomment in server.lua the text in english and comment the french langage
+
 - Give you a lighter / paquetmalboro / paquetcamel / paquetwinston / paquetlucky
 
 - Use the item paquet with your inventory and ENJOY your cigaret ;)
